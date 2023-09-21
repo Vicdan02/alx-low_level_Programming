@@ -1,19 +1,13 @@
 #include <stdio.h>
 
-/**
- * main -  102-magic.c
- *
- *  A dream doesn't become reality through magic; it takes sweat, hard work
- *  Return: Always 0 (success)
- */
 int main(void)
 {
-int n;
-int a[5];
-int *p;
+	int n;
+	int a[5];
+	int *p;
 
-a[2] = 1024;
-p = &n;
+	a[2] = 1024
+	p = &n;
 /*
  * write your line of code here...
  * Remember:
